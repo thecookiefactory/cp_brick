@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6601"
-	"mapversion" "116"
+	"mapversion" "123"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "116"
+	"mapversion" "123"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -37522,7 +37522,7 @@ world
 		{
 			"id" "11528"
 			"plane" "(-648 -1784 -176) (-648 -120 -176) (1512 -120 -176)"
-			"material" "NATURE/WATER_CANALS_CHEAP001_DX70"
+			"material" "WATER/WATER_SAWMILL"
 			"uaxis" "[1 0 0 -32] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6601"
-	"mapversion" "141"
+	"mapversion" "142"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "141"
+	"mapversion" "142"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -63691,7 +63691,7 @@ entity
 	"id" "16352"
 	"classname" "trigger_capture_area"
 	"area_cap_point" "cp_2"
-	"area_time_to_cap" "10"
+	"area_time_to_cap" "7"
 	"StartDisabled" "0"
 	"targetname" "cp_2_trigger"
 	"team_cancap_2" "0"

@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6601"
-	"mapversion" "139"
+	"mapversion" "140"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "139"
+	"mapversion" "140"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -62671,7 +62671,7 @@ entity
 	"show_time_remaining" "1"
 	"start_paused" "0"
 	"targetname" "timer"
-	"timer_length" "600"
+	"timer_length" "510"
 	connections
 	{
 		"OnFinished" "win,RoundWin,,0,-1"

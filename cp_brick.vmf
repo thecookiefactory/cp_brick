@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "6601"
-	"mapversion" "134"
+	"mapversion" "135"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "134"
+	"mapversion" "135"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -61407,7 +61407,7 @@ entity
 entity
 {
 	"id" "14964"
-	"classname" "item_ammopack_full"
+	"classname" "item_healthkit_medium"
 	"angles" "0 0 0"
 	"AutoMaterialize" "1"
 	"fademindist" "-1"
@@ -61567,7 +61567,7 @@ entity
 entity
 {
 	"id" "15012"
-	"classname" "item_ammopack_small"
+	"classname" "item_healthkit_small"
 	"angles" "0 270 0"
 	"AutoMaterialize" "1"
 	"fademindist" "-1"
@@ -63539,6 +63539,22 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -7768]"
+	}
+}
+entity
+{
+	"id" "21451"
+	"classname" "item_ammopack_full"
+	"angles" "0 0 0"
+	"AutoMaterialize" "1"
+	"fademindist" "-1"
+	"origin" "432 -3280 -192"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -15268]"
 	}
 }
 cameras
